@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "0bc9e27bb7ffbf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2740a32efe7d0cd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prognosis/Week 1/Prognosis.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53ec462c5fc5527b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27f94291d4a3e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "272125ce953c9692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f15dbd4c5fd26e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d48b62e808cd7941",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a64a5f8c4f064b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4df4a52c25f66f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Prognosis/Week 1/Untitled.md",
+    "Prognosis/Untitled 1.md",
+    "Untitled.md"
+  ]
+}
